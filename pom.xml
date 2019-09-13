@@ -51,6 +51,11 @@
     </snapshotRepository>
 </distributionManagement>
 
+<server>
+		<id>deployment</id>
+		<username>admin</username>
+		<password>admin123</password>
+</server>
 
 
 
